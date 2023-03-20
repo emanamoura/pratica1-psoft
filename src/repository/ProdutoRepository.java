@@ -1,6 +1,8 @@
 package repository;
 
+import entities.Produto;
 import java.util.HashMap;
+import java.util.Map;
 
 public class ProdutoRepository {
 
